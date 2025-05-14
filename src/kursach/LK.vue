@@ -14,7 +14,7 @@ const showAvatarOptions = ref(false);
 const username = ref("");
 const password = ref("");
 const email = ref("");
-const selectedAvatar = ref(localStorage.getItem("selectedAvatar") || "/img/cat.PNG");
+const selectedAvatar = ref(localStorage.getItem("selectedAvatar") || "https://imzxzmi.github.io/imxmi_kursovay/img/cat.PNG");
 
 const errorUsername = ref(false);
 const errorPassword = ref(false);
