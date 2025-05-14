@@ -49,11 +49,11 @@ onMounted(() => {
             <!-- Галерея фото -->
     <div class="photo-gallery">
       <div class="photo-row">
-        <img src="/img/castlcore.jpg" alt="Фото 1" />
-        <img src="/img/castlcore1.jpg" alt="Фото 2" />
-        <img src="/img/castlcore3.jpg" alt="Фото 3" />
-        <img src="/img/castlcore4.jpg" alt="Фото 4" />
-        <img src="/img/castlcore9.jpg" alt="Фото 4" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore.jpg" alt="Фото 1" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore1.jpg" alt="Фото 2" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore3.jpg" alt="Фото 3" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore4.jpg" alt="Фото 4" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore9.jpg" alt="Фото 4" />
       </div>
     </div>
 
@@ -71,11 +71,11 @@ onMounted(() => {
         <!-- Галерея фото -->
         <div class="photo-gallery">
       <div class="photo-row">
-        <img src="/img/castlcore10.jpg" alt="Фото 4" />
-        <img src="/img/castlcore7.jpg" alt="Фото 7" />
-        <img src="/img/castlcore8.jpg" alt="Фото 8" />
-        <img src="/img/castlcore6.jpg" alt="Фото 7" />
-        <img src="/img/castlcore5.jpg" alt="Фото 8" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore10.jpg" alt="Фото 4" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore7.jpg" alt="Фото 7" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore8.jpg" alt="Фото 8" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore6.jpg" alt="Фото 7" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/castlcore5.jpg" alt="Фото 8" />
       </div>
     </div>
 
@@ -151,11 +151,11 @@ onMounted(() => {
 
     <div class="photo-gallery">
       <div class="photo-row">
-        <img src="/img/j5.1.jpg" alt="Фото 4" />
-        <img src="/img/j1.1.jpg" alt="Фото 7" />
-        <img src="/img/j5.3.jpg" alt="Фото 8" />
-        <img src="/img/j3.3.jpg" alt="Фото 7" />
-        <img src="/img/j5.2.jpg" alt="Фото 8" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/j5.1.jpg" alt="Фото 4" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/j1.1.jpg" alt="Фото 7" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/j5.3.jpg" alt="Фото 8" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/j3.3.jpg" alt="Фото 7" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/j5.2.jpg" alt="Фото 8" />
       </div>
     </div>
 
