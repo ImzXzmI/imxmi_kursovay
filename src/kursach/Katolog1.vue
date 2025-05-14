@@ -818,7 +818,7 @@ const galleryStyle = computed(() => ({
 /* Кнопка закрытия */
 .fullscreen-image-modal .close-button {
   position: absolute;
-  top: 30px; /* было 10px, опустили ниже */
+  top: 40px; /* было 10px, опустили ниже */
   right: 20px;
   font-size: 26px; /* чуть меньше, чтобы выглядело аккуратнее */
   background-color: transparent; /* убрали фон полностью */
