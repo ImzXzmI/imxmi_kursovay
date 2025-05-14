@@ -818,18 +818,22 @@ const galleryStyle = computed(() => ({
 /* Кнопка закрытия */
 .fullscreen-image-modal .close-button {
   position: absolute;
-  top: 10px;
+  top: 30px; /* было 10px, опустили ниже */
   right: 20px;
-  font-size: 28px;
-  background-color: rgba(255, 255, 255, 0.8); /* полупрозрачный белый фон */
-  color: black;
-  padding: 10px;
+  font-size: 26px; /* чуть меньше, чтобы выглядело аккуратнее */
+  background-color: transparent; /* убрали фон полностью */
+  color: white; /* лучше смотрится на затемнённом фоне */
+  padding: 8px;
   border-radius: 50%;
-  border: none;
+  border: 1px solid white; /* тонкая белая рамка вместо фона */
   cursor: pointer;
   z-index: 10000;
+  transition: background-color 0.2s ease;
 }
 
+.fullscreen-image-modal .close-button:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* лёгкое затемнение при наведении */
+}
 
 .favorite-button-top {
   position: absolute;
