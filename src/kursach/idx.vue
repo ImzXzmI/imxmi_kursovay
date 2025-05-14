@@ -221,7 +221,7 @@ function goToCheckout() {
       <div class="menu">
         <!-- Пункт меню с логотипом -->
         <button @click="local.curPage = 1" >
-          <img src="/img/logo1.png" alt="Logo" class="logo" />
+          <img src="https://imzxzmi.github.io/imxmi_kursovay/img/logo1.png" alt="Logo" class="logo" />
         </button>
 
         <button @click="local.curPage = 1" :class="{ menuIt: local.curPage == 1 }">О нас</button>
