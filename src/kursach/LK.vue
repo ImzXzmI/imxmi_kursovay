@@ -21,13 +21,13 @@ const errorPassword = ref(false);
 const errorEmail = ref(false);
 
 const avatarOptions = [
-  "/img/cat.PNG",
-  "/img/cat2.PNG",
-  "/img/cat3.PNG",
-  "/img/cat4.PNG",
-  "/img/cat5.PNG",
-  "/img/cat6.PNG",
-  "/img/cat7.PNG",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/cat.PNG",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/cat2.PNG",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/cat3.PNG",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/cat4.PNG",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/cat5.PNG",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/cat6.PNG",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/cat7.PNG",
 ];
 
 function toggleOrders() {
