@@ -145,7 +145,7 @@ function submitOrder() {
             <label for="payment">Способ оплаты</label>
             <select id="payment" v-model="forma.payment" required>
               <option value="" disabled>Выберите способ оплаты</option>
-              <option value="spb">СПБ</option>
+              <option value="spb">СБП</option>
               <option value="card">По карте</option>
             </select>
           </div>
