@@ -39,7 +39,7 @@ onMounted(() => {
     <!-- Hero-секция с фоном и CTA -->
     <section class="hero">
       <div class="hero-content">
-        <img src="/img/logo.png" alt="Логотип" class="hero-logo" />
+        <img src="https://imzxzmi.github.io/imxmi_kursovay/img/logo.png" alt="Логотип" class="hero-logo" />
         <h1>Украшения ручной работы</h1>
         <p>Созданные с любовью. Носимые с гордостью.</p>
         <button class="catalog-button" @click="$emit('openCatalog')">Перейти в каталог</button>
@@ -270,7 +270,7 @@ body, html {
 
 /* Hero-секция */
 .hero {
-  background: url('/img/fon.jpg') center/cover no-repeat;
+  background: url('https://imzxzmi.github.io/imxmi_kursovay/img/fon.jpg') center/cover no-repeat;
   height: 110vh;
   display: flex;
   align-items: center;
