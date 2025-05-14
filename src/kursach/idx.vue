@@ -28,7 +28,7 @@ const local = reactive({
     category: "ожерелье",
     price: 3000,
     quantity: 10,
-    images: ["/img/j1.1.jpg", "/img/j1.2.jpg", "/img/j1.3.jpg"],
+    images: ["https://imzxzmi.github.io/imxmi_kursovay/img/j1.1.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j1.2.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j1.3.jpg"],
     description: "Элегантное ожерелье, вдохновлённое сериалом Ганнибал.",
     reviews: ["Отличный товар!", "Качественный!"]
   },
@@ -38,7 +38,7 @@ const local = reactive({
     category: "ожерелье",
     price: 3000,
     quantity: 7,
-    images: ["/img/j2.1.jpg", "/img/j2.2.jpg", "/img/j2.3.jpg"],
+    images: ["https://imzxzmi.github.io/imxmi_kursovay/img/j2.1.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j2.2.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j2.3.jpg"],
     description: "Изящное украшение красными камнями, вдохновлённое Италие в Эпоху Возрождения.",
     reviews: ["Очень нравится!", "Рекомендую!"]
   },
@@ -48,7 +48,7 @@ const local = reactive({
     category: "ожерелье",
     price: 2500,
     quantity: 5,
-    images: ["/img/j3.1.jpg", "/img/j3.2.jpg", "/img/j3.3.jpg"],
+    images: ["https://imzxzmi.github.io/imxmi_kursovay/img/j3.1.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j3.2.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j3.3.jpg"],
     description: "Яркое и загадочное ожерелье с переливающимися камнями, каждый из них блестит, словно зведное небо.",
     reviews: ["Хорошее качество", "Доволен покупкой"]
   },
@@ -59,7 +59,7 @@ const local = reactive({
     price: 5000,
     quantity: 1,
     unique: true,
-    images: ["/img/j4.1.jpg"],
+    images: ["https://imzxzmi.github.io/imxmi_kursovay/img/j4.1.jpg"],
     description: "Эксклюзивный браслет ручной работы с натуральным топазом. <strong>Единственный экземпляр!</strong>",
     reviews: ["Хорошее качество", "Доволен покупкой"]
   },
@@ -69,7 +69,7 @@ const local = reactive({
     category: "ожерелье",
     price: 5000,
     quantity: 3,
-    images: ["/img/j5.1.jpg", "/img/j5.2.jpg", "/img/j5.3.jpg"],
+    images: ["https://imzxzmi.github.io/imxmi_kursovay/img/j5.1.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j5.2.jpg", "https://imzxzmi.github.io/imxmi_kursovay/img/j5.3.jpg"],
     description: "Волшебное поистине красивое ожерелье",
     reviews: ["Хорошее качество", "Доволен покупкой"]
   }
