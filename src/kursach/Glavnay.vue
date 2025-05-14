@@ -15,9 +15,9 @@ onMounted(() => {
 const currentSlide = ref(0);
 
 const slides = [
-  "/img/j1.1.jpg",
-  "/img/j2.1.jpg",
-  "/img/j3.1.jpg",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/j1.1.jpg",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/j2.1.jpg",
+  "https://imzxzmi.github.io/imxmi_kursovay/img/j3.1.jpg",
 ];
 
 const nextSlide = () => {
